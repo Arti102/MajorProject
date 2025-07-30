@@ -1,8 +1,10 @@
 https://majorproject-3wrg.onrender.com
+https://majorproject-3wrg.onrender.com/listings
 
 
 
 Property Listing Web App
+
 This is a full-stack property listing web application built using Node.js, Express, MongoDB Atlas, and EJS. It allows users to register, log in, post listings, leave reviews, and upload images using Cloudinary. The app is deployed on Render, making it accessible publicly.
 
  Features
